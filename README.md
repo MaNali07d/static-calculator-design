@@ -7,8 +7,11 @@ but there is **no JavaScript functionality** (so it does not perform calculation
 ---
 
 ## 📂 Project Structure
+
 calculator-html/
+
 │── index.html # Main HTML file
+
 │── style.css # CSS for styling
 
 
@@ -30,8 +33,7 @@ calculator-html/
 ---
 
 ## 📸 Preview
-![Calculator Preview](https://via.placeholder.com/400x300.png?text=Calculator+UI)  
-*(You can replace this with a real screenshot once you upload the project)*
+![Calculator Preview] https://manali07d.github.io/static-calculator-design/ 
 
 ---
 
@@ -45,4 +47,5 @@ calculator-html/
 ## 🧑‍💻 Author
 - **Manali Desai**  
   AI & Data Science Student | Web Enthusiast  
-  GitHub: [your-username](https://github.com/your-username)
+  GitHub:(https://github.com/MaNali07d)
+
